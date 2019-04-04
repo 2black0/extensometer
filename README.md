@@ -29,5 +29,7 @@ From wikipedia, its said An extensometer is a device that is used to measure cha
 * Solar cell system apply in this project
 * Next : can send notification to smartphone apps (telegrambot)
 
+![Extensometer System](https://raw.githubusercontent.com/2black0/extensometer/master/Picture/extensometer.jpg)
+
 ## How to Build
 * next update
